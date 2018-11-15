@@ -76,7 +76,7 @@ ui <- fluidPage(
                                 br(),
                                 p("This interactive web application accompanies the article 'Longitudinal Development of Wideband 
                                     Absorbance and Admittance Through Infancy' (Myers et al., 2018). The study longitudinally measured wideband acoustic immittance (WAI) on
-                                  218 infants at birth, 6 months, 12 months, and 18 months of age. Resutls from ears with normal middle ear function were included in the study, 
+                                  218 infants at birth, 6 months, 12 months, and 18 months of age. Results from ears with normal middle ear function were included in the study, 
                                   assessed using distortion product otoacoustic emissions and tympanometry. High-frequency (1000 Hz) tympanometry was used at birth and
                                   6 months, and low-frequency (226 Hz) tympanometry at 12 and 18 months. Refer to the article for further information about the study"),
                                 p("The 'Group Averages' tab shows median WAI results by age.
