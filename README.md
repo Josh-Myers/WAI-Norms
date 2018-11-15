@@ -1,2 +1,2 @@
 # WAI-Norms
-WAI Norms shiny app
+Data and script for the WAI Norms Shiny app.
